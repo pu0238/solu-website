@@ -1,0 +1,6 @@
+.text-stroke-black-3 {
+    -webkit-text-stroke: 3px black;
+}
+.text-stroke-white-3 {
+    -webkit-text-stroke: 3px #fff;
+}
